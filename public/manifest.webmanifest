@@ -1,0 +1,18 @@
+{
+  "name": "Datebook — plans for two",
+  "short_name": "Datebook",
+  "description": "A private, curated date planner for two.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ed",
+  "theme_color": "#f7f3ed",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
